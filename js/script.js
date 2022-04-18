@@ -7,7 +7,7 @@ function initMap() {
     });
   
     var icon = {
-      url: "https://upload.wikimedia.org/wikipedia/chttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/El_track_tunnel_at_Illinois_Institute_of_Technology%2C_Chicago.jpg/1125px-El_track_tunnel_at_Illinois_Institute_of_Technology%2C_Chicago.jpg?20120928022035ommons/thumb/8/82/Chicago-style_hot_dog_2.jpg/1200px-Chicago-style_hot_dog_2.jpg",
+      url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/El_track_tunnel_at_Illinois_Institute_of_Technology%2C_Chicago.jpg/640px-El_track_tunnel_at_Illinois_Institute_of_Technology%2C_Chicago.jpg",
       scaledSize: new google.maps.Size(100, 100),
     };
   
