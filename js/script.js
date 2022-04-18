@@ -22,13 +22,7 @@ function initMap() {
       { lat: 43.5460, lng: -96.7313 },
     ];
   
-    const chicagoPath = new google.maps.Polyline({
-      path: chicagoCoords,
-      geodesic: true,
-      strokeColor: "#FF0000",
-      strokeOpacity: 1.0,
-      strokeWeight: 6,
-    });
+
   
     chicagoPath.setMap(map);
   
